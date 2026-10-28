@@ -34,3 +34,4 @@ resetButton.addEventListener("click", function () {
   image1.setAttribute("src", "images/dice1.png");
   image2.setAttribute("src", "images/dice1.png");
 });
+// 주석달기
